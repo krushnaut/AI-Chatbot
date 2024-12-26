@@ -1,1 +1,0 @@
-const App = console.log("hare krishna")
